@@ -1,0 +1,13 @@
+{
+  "id": "goofybhatoora/amazon-ml-challenge-2026-training",
+  "title": "Amazon ML Challenge 2026 Training",
+  "code_file": "kaggle_train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "goofybhatoora/amazon-ml-challenge-2026"
+  ]
+}

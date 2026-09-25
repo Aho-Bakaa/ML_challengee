@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large Datasets & Archives
+student_resource/dataset/
+dataset/
+*.tsv
+*.zip
+*.tar.gz
+
+# Local pipeline outputs and temporary files
+output/
+tmp/
+temp/
+
+# IDE configurations
+.idea/
+.vscode/
+*.swp
+*.swo
