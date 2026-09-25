@@ -1,11 +1,10 @@
 {
   "model_type": "LightGBM Classifier",
-  "objective": "binary_logloss",
   "optimal_threshold": 0.4,
-  "validation_macro_f05": 0.7731,
+  "validation_macro_f05": 0.7733,
   "validation_roc_auc": 0.99959,
-  "validation_precision": 0.9769,
-  "validation_recall": 0.7525,
+  "validation_precision": 0.9768,
+  "validation_recall": 0.7527,
   "features": [
     "name_jw",
     "name_jw_compact",
@@ -44,9 +43,6 @@
     0,
     0
   ],
-  "sample_size": 50000,
-  "total_train_pairs": 553295,
-  "total_val_pairs": 138464,
-  "prediction_speed_cpu_rows_per_sec": 1112489,
-  "trained_timestamp": "2026-09-25 14:05:13"
+  "prediction_speed_rows_per_sec": 194572,
+  "sample_size": 50000
 }
