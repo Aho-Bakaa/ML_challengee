@@ -1,13 +1,11 @@
 {
-  "id": "goofybhatoora/amazon-ml-challenge-2026-training",
-  "title": "Amazon ML Challenge 2026 Training",
+  "id": "nikhilyadav0001/amazon-ml-challenge-trianing-set",
+  "title": "Amazon_ML_challenge_trianing_set",
   "code_file": "kaggle_train.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": true,
   "enable_gpu": false,
   "enable_internet": true,
-  "dataset_sources": [
-    "goofybhatoora/amazon-ml-challenge-2026"
-  ]
+  "dataset_sources": []
 }
