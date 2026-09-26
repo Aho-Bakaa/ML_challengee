@@ -1,10 +1,5 @@
 {
-  "model_type": "LightGBM Classifier",
-  "optimal_threshold": 0.4,
-  "validation_macro_f05": 0.7733,
-  "validation_roc_auc": 0.99959,
-  "validation_precision": 0.9768,
-  "validation_recall": 0.7527,
+  "model_name": "LightGBM Adaptive Business Matcher",
   "features": [
     "name_jw",
     "name_jw_compact",
@@ -24,25 +19,12 @@
     "addr_both_null",
     "is_source2"
   ],
-  "monotone_constraints": [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    -1,
-    1,
-    0,
-    0,
-    0
-  ],
-  "prediction_speed_rows_per_sec": 194572,
-  "sample_size": 50000
+  "optimal_threshold": 0.8321428571428571,
+  "validation_macro_f05": 0.4695829967042291,
+  "validation_pairwise_auc": 0.9972316926773923,
+  "blocking_recall_ceiling": 0.3931244933962714,
+  "avg_candidates_per_s1": 14.209333333333333,
+  "cpu_throughput_preds_per_sec": 1162533.3296377393,
+  "sample_size": 30000,
+  "random_state": 42
 }
